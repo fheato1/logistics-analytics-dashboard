@@ -23,10 +23,10 @@ It is the first project in my data analytics portfolio and demonstrates skills i
 ---
 
 ## 🧰 Tools & Technologies
-- **Python** (pandas, numpy, matplotlib, seaborn)  
-- **Jupyter Notebooks**  
-- **Power BI**  
-- **Git & GitHub**  
+- SQL (schema design, views, KPI modeling, analysis queries)
+- Power BI (for dashboarding)
+- Git & GitHub
+- (Optional later: Python / Jupyter for supporting analysis)
 
 ---
 
