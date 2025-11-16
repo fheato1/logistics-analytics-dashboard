@@ -11,8 +11,35 @@ It is the first project in my data analytics portfolio and demonstrates skills i
 - Dashboard design & visualization  
 - Business insight storytelling  
 
-More components will be added as the project is developed.
+---
+
+## 🎯 Project Goals
+- Identify operational trends across regions and routes  
+- Evaluate driver and vehicle performance  
+- Analyze on-time delivery rates and delay patterns  
+- Understand seasonal and geographic impacts  
+- Develop a professional analytics dashboard for decision-making  
 
 ---
 
-## 📁 Project Structure (Current & Planned)
+## 🧰 Tools & Technologies
+- **Python** (pandas, numpy, matplotlib, seaborn)  
+- **Jupyter Notebooks**  
+- **Power BI**  
+- **Git & GitHub**  
+
+---
+
+## ✔ Status
+🟦 **Starting Point:** Repository created and project structure defined  
+⬜ Data cleaning notebooks  
+⬜ Exploratory analysis  
+⬜ KPI modeling  
+⬜ Power BI dashboard  
+⬜ Case study & insights  
+
+---
+
+### ✨ Author
+**Franklin Heaton**  
+Sales Operations • Business Intelligence • Data Analytics  
